@@ -1,4 +1,4 @@
-/* Este es el primer cambi para el comit */
+/* Este es el primer cambi pahra el comit */
 
 import React from 'react'
 
